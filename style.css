@@ -1,0 +1,420 @@
+.a{
+    width: 100%;
+    background-color: rgb(22, 21, 21);
+    font-family: cursive;
+}
+.a1{
+    width: 100%;
+    height: 350px;
+    padding-top: 80px;
+    background-image: url(../img/tie.jpg);
+    background-attachment: fixed;
+   
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.a1 button{
+    border-radius: 20px;
+    background-color: orange;
+    color: white;
+    padding: 10px;
+}
+.a1 button:hover{
+        background-color: white;
+        background: white;
+        color:black;
+}
+.aa1{
+    width:220;
+    position: fixed;
+    right: -150px;
+    bottom: 360px;
+    color: blue;
+}
+.aa2{    
+    width:220;
+    position: fixed;
+    right: -125px;
+    bottom: 300px;
+    color: blue;
+}
+.aa3{    
+    width:220;
+    position: fixed;
+    right: -150px;
+    bottom: 240px;
+    color: blue;
+}
+.aa1 h1 a{
+    color: magenta;
+}
+.aa2 h1 a{
+    color: cyan;
+}
+.aa3 h1 a{
+    color: yellowgreen;
+}
+.a2 h1{
+    border: 2px solid gray;
+    background-color:white;
+    box-shadow: 3px;
+    border-radius: 30px;
+    padding: 5px;
+}
+.aa1:hover{
+    position: fixed;
+    right: 1px;
+    bottom: 360px;
+    transition: 1s;
+    transform: rotateX(360deg);
+ }
+ .aa2:hover{
+    position: fixed;
+    right: 1px;
+    bottom: 300px;
+    transition: 1s;
+   
+    }
+    .aa3:hover{
+        position: fixed;
+        right: 1px;
+        bottom: 240px;
+        transition: 1s;
+    }
+
+.b{
+    width: 100%;
+    height: 400px;
+}
+.b1{
+    background-image: url(../img/dis.jpg);
+    background-size: 100% 400px;
+    
+    width:30%;
+    height: 400px;
+    float: left;
+    padding-left: 20px;
+    color: aliceblue;
+}
+.b1 img{
+    border-radius: 30px;
+}
+.b2 img{
+    border-radius: 30px;
+}
+.b3 img{
+    border-radius: 30px;
+}
+.b2{
+    background-color: orange;
+    width:30%;
+    height: 400px;
+    float: left;
+    padding-left: 20px;
+    margin-left: 20px;
+    color: white;
+    margin-right: 20px;
+    
+}
+.b3{
+    background-image: url(../img/wait.jpg);
+    background-size: 100% 400px;
+    width:30%;
+    color: white;
+    height: 400px;
+    float: left;
+    padding-left: 20px;
+    
+}
+.c{
+    width: 100%;
+    background-color: orange;
+    height: 120px;
+    margin-top: 40px;
+}
+.c1{
+    text-align: center;
+    height: 120px;
+    width: 50%;
+    float: left;
+    color: antiquewhite;
+}
+.c2{
+    height: 120px;
+    width: 50%;
+    float: left;
+    padding-top: 34px;
+}
+.c2 button:hover{
+    background-color: white;
+    background: white;
+    color:black;
+}
+.c2 button{
+    border-radius: 20px ;
+    padding: 20px;
+    color: white;
+    background-color: black;
+}
+.d{
+    padding-top:20px ;
+    width: 100%;
+    height: 400px;
+}
+.d img{
+    background-color: orange;
+    border-radius: 5px;
+}
+.d1{
+    color: white;
+    width: 30%;
+    float: left;
+    height: 300px;
+    font-family: cursive;
+}
+.d2{    
+    margin-left: 30px;
+    margin-right: 30px;
+    color: white;
+    width: 30%;
+    float: left;
+    height: 300px;
+    font-family: cursive;
+}
+.d3{
+    color: white;
+    height: 300px;
+    width: 30%;
+    float: left;
+    font-family: cursive;
+}
+.e{
+    color: white;
+    width: 100%;
+    height: 400px;
+    padding-top:30px ;
+}
+.e img{
+    background-color: orange;
+    border-radius: 5px;
+}
+.e1{
+    width: 30%;
+    height: 300px;
+    float: left;
+    font-family: cursive;
+}
+.e2{
+    width: 30%;
+    height: 300px;
+    float: left;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-family: cursive;
+}
+.e3{
+    width: 30%;
+    height: 300px;
+    float: left;
+    text-align: justify;
+    font-family: cursive;
+}
+.f{
+    color: white;
+    width: 100%;
+    height: 150px;
+}
+.f1{
+    width: 25%;
+    height: 120px;
+    float: left;
+}
+.f2{
+    width: 25%;
+    height: 120px;
+    float: left;
+}
+.f3{
+    width: 50%;
+    height: 120px;
+    float: left;
+}
+.g{
+    width: 100%;
+    height: 150px;
+}
+.g1{
+    width: 80%;
+    height: 150px;
+    float: left;
+}
+.g2{
+    width: 20%;
+    height: 150px;
+    float: left;
+    color: white;
+}
+.h{
+width: 100%;
+height: 400px;
+color: white;
+background-image: url(../img/black.jpg);
+}
+.h1{
+    width: 100%;
+    height: 200px;
+}
+.h2{
+width: 100%;
+height: 150px;
+}
+.i{
+    width: 100%;
+    height: 450px;
+    background-color: orange;
+}.i{
+    width:100%;
+    height:450px;
+    background: orange;
+    }
+    .i1{
+    width:50%;
+    height:450px;
+    color: white;
+    float: left;
+padding-top: 50px;
+    }
+    .i2{
+    width:50%;
+    height:450px;
+    float: left;
+    }
+    .i21{
+        padding-left: 10px;
+        width: 90%;
+        height: 200px;
+    background:white;
+    }
+    
+    .i22{
+        padding-left: 10px;
+        width: 90%;
+        height: 200px;
+        background:white;
+    }
+    
+.i1 button:hover{
+    background-color: white;
+    background: white;
+    color:black;
+}
+.i1 button{
+    border-radius: 20px ;
+    padding: 20px;
+    color: white;
+    background-color: black;
+}
+.j{
+
+    width: 100%;
+    height: 300px;
+}
+.j1{
+    width: 33%;
+    height: 250px;
+    float: left;
+    color: white;
+}
+.j1 h1{
+    background-color: orange;
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    align-items: center;
+    display: inline-grid;
+}
+
+
+.j2{
+    width: 33%;
+    height: 150px;
+    float: left;
+    color: white;
+}
+.j2 h1{
+    background-color: orange;
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    align-items: center;
+    display: inline-grid;
+}
+.j3{
+    color: white;
+    width: 33%;
+    height: 150px;
+    float: left;
+}
+.j3 h1{
+    background-color: orange;
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    align-items: center;
+    display: inline-grid;
+}
+#hi{
+    color: white;
+}
+#hii{
+    color: white;
+}
+.k{
+    background-image: url(../img/bb.jpg.webp);
+    width: 100%;
+    height: 400px;
+    color: white;
+}
+.k1{
+    width: 50%;
+    height: 300px;
+    float: left;
+}
+.k2{
+    width: 50%;
+    height: 300px;
+    float: left;
+    align-items: center;
+}
+input[type=text] 
+{
+    width: 80%;
+    background: transparent;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid red;
+}
+input[type=email] 
+{
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    background: transparent;
+    border-bottom: 2px solid red;
+}
+.k2 button{
+    width: 20%;
+    height: 30px;
+    color: rebeccapurple;
+    background: transparent;
+}
+.k2 button:hover{
+    background-color: blue;
+    color: yellowgreen;
+    border: 2px dotted green;
+}
